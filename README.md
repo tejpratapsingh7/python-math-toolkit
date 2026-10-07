@@ -1,2 +1,2 @@
-# python-bmi-calculator
-My first Python project — a simple BMI calculator
+# python-math-toolkit
+Python projects — arithmetic operations
